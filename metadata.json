@@ -1,0 +1,6 @@
+{
+  "name": "LootGem India",
+  "description": "Real hidden gem deals and price glitches from Indian ecommerce stores (Amazon, Flipkart, Ajio, Myntra, Meesho, Blinkit, Zepto) powered by Telegram channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

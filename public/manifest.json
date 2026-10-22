@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "LootGem India",
+  "short_name": "LootGem",
+  "description": "Real hidden gem deals and price glitches from Indian ecommerce stores powered by Telegram channels.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

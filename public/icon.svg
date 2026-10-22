@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="gem" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f97316" />
+      <stop offset="50%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bg)" />
+  <circle cx="256" cy="256" r="190" fill="none" stroke="#334155" stroke-width="4" stroke-dasharray="8 8" />
+  <!-- Gem Polygon -->
+  <polygon points="256,96 384,180 340,360 256,416 172,360 128,180" fill="url(#gem)" opacity="0.9" />
+  <!-- Rupee Symbol in Center -->
+  <path d="M210,180 L302,180 M210,215 L285,215 M210,180 L210,310 M210,250 C250,250 268,230 268,205 C268,185 245,180 210,180 M235,250 L295,335" 
+        stroke="#ffffff" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>
